@@ -1,3 +1,1 @@
 This is my second file which I have made after I reverted the second commit.
-
-This is a line which I am writing to act like I have done a mistake when actually it's not. I just want to test 'git checkout' command.

@@ -1,0 +1,1 @@
+This is the home file which when clicked takes us to the default page of the website.
